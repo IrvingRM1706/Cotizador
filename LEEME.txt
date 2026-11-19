@@ -1,0 +1,21 @@
+ESSENZA — Cotizador y control de pedidos
+
+1. Extrae el ZIP completo.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. Los datos se guardan localmente en el navegador mediante localStorage.
+4. Cambia los costos por tallo en “Mis flores y costos”.
+5. Usa “Descargar respaldo” en Ajustes para conservar una copia JSON.
+6. Las notas se pueden imprimir o guardar como PDF desde el diálogo de impresión.
+
+IMPORTANTE:
+- Esta es una herramienta personal/local. No tiene inicio de sesión, servidor ni sincronización entre dispositivos.
+- Los costos de flores e insumos incluidos son valores de ejemplo; actualízalos con tus costos reales.
+- El precio sugerido aplica el porcentaje de ganancia sobre el costo total (markup): costo × (1 + porcentaje).
+- No es una tienda pública ni modifica la página comercial original de ESSENZA.
+
+ACTUALIZACIÓN: CÁLCULO DE LIMPIA PIPAS
+- En “Mis flores y costos” puedes editar el precio de cada flor y cuántos limpia pipas requiere cada una.
+- En el cotizador define cuánto cuesta cada limpia pipas.
+- Al elegir las cantidades de flores, el sistema calcula automáticamente el total de limpia pipas y su costo, y lo suma al costo de insumos.
+- Puedes agregar más tipos de flores desde “Mis flores y costos”.
+- Los valores iniciales de limpia pipas por flor quedan en cero para que registres las cantidades reales de tus diseños.
